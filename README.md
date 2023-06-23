@@ -1,4 +1,10 @@
-![225685881-478767ea-f466-4ef8-8555-c4e1e5dfed22](https://user-images.githubusercontent.com/112805297/225855565-91bedeed-ad24-485c-b2ba-b77d632c7051.png)
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="31">, I'm Keerti</h1>
+<h3 align="center"> A Passionate Full Stack Web Developer </h3> &nbsp;&nbsp;
+
+<img align="right" alt="coding" width="330" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGM3YzlkYTVkMDJiNTYwZjA3ZTUzMTk5ZDg0OGRlYTFmNGYzN2Y4MiZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+
 # 💫 About Me:
 I’m currently learning Node.js Backend Development.<br>💬 Ask me about Javascript , NodeJS ,ExpressJS , MongoDB, System Design & MySql .<br>📫 How to reach me keertipawar8@gmail.com<br>👨‍💻 My Portfolio : **[KeertiPawar8.github.io](https://KeertiPawar8.github.io/)**
 
