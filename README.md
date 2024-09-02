@@ -1,4 +1,3 @@
-
 <h1 align="center">Hi 👋, I'm Keerti</h1>
 <h3 align="center"> A Passionate Full Stack Web Developer </h3> &nbsp;&nbsp;
 
