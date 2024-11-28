@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-I’m currently learning Node.js Backend Development.<br>💬 Ask me about Javascript , NodeJS ,ExpressJS , MongoDB, System Design & MySql .<br>📫 How to reach me keertipawar8@gmail.com<br>👨‍💻 My Portfolio : **[KeertiPawar8.github.io](https://KeertiPawar8.github.io/)**
+I’m currently learning Node.js and React.js.<br>💬 Ask me about Javascript , ReactJS, NodeJS ,ExpressJS , MongoDB, System Design & MySql .<br>📫 How to reach me keertipawar8@gmail.com<br>👨‍💻 My Portfolio : **[KeertiPawar8.github.io](https://KeertiPawar8.github.io/)**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keertipawar/) 
